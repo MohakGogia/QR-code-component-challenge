@@ -13,13 +13,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-<!-- ![image](https://github.com/Mohak-Gogia/QR-code-component/assets/91110127/4e831c5e-1840-41c7-a2ee-d8a677e61afa) -->
+![image](https://github.com/MohakGogia/QR-code-component-challenge/assets/51714505/0984ee48-133f-4dd1-afc8-9d7918110ed6)
 
 
 ### Links
 
-<!-- - Live Site URL: [Live Demo](https://mohak-gogia.github.io/QR-code-component/)
- -->
+- Live Site URL: [Live Demo](https://mohakgogia.github.io/QR-code-component-challenge/)
 
 ### Used
 
